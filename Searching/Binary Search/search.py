@@ -15,5 +15,6 @@ def binary_search(needle, haystack):
 	
 	return found
 
-
-print(binary_search(1, [1,2,3,4,5,6]))
+"""
+print(binary_search(1, [1,2,3,4,5,6])) 
+"""
